@@ -1,28 +1,9 @@
 {
-  "usuarios": [
-    {
-      "id": 1,
-      "nome": "Biro biro",
-      "idade": 2
-    },
-    {
-      "id": 2,
-      "nome": "Manuel"
-    },
-    {
-      "id": 3,
-      "nome": "Joaquim",
-      "idade": 12
-    },
-    {
-      "id": 4,
-      "nome": "José",
-      "idade": 22
-    },
-    {
-      "id": 5,
-      "nome": "Samuca",
-      "idade": 32
-    }
-  ]
+    "user": [
+        {
+            "id": "11",
+            "nome": "Bob",
+            "idade": 20
+        }
+    ]
 }
